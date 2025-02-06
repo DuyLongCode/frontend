@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fontend/static/js/main.1de270aa.js",
+    "index.html": "/fontend/index.html",
+    "main.1de270aa.js.map": "/fontend/static/js/main.1de270aa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1de270aa.js"
+  ]
+}
