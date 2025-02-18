@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-
+import Table3x3 from "../components/Table3x3.jsx";
 const Home = () => {
 	const [stringData, setString] = useState('');
 
@@ -21,8 +21,8 @@ const Home = () => {
 	return (
 		<div className="personal-container">
 			<div className="personal-info">
-				<h1>{stringData}</h1>
-				<h2>Software Developer</h2>
+				
+				<Table3x3/>
 			</div>
 			
 			<div className="info-section">
